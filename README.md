@@ -16,4 +16,5 @@ Contact with me:
 
 ----------
 *In my free time, I like to play music (`play the guitar or write arrangements`)*
+
 -->
