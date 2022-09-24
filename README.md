@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**Plupiks/Plupiks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
- - 👋Hi, I'm @Plupiks, my real name is Vitaly, I'm from Ukraine;
+- 👋Hi, I'm @Plupiks, my real name is Vitaly, I'm from Ukraine;
  - 📩 At the moment, I'm interested in commercial projects on pure JS;
  - 🎯 I am currently learning the **React.js** library and the **Next.js** framework;
  - ✌ Ready to cooperate with web studios or work on a startup to gain more experience;
@@ -18,4 +13,9 @@ Contact with me:
 
 ----------
 *In my free time, I like to play music (`play the guitar or write arrangements`)*
+
+<!--
+**Plupiks/Plupiks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+ 
 -->
