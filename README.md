@@ -1,7 +1,7 @@
 - 👋Hi, I'm @Plupiks, my real name is Vitaly, I'm from Ukraine;
-- 👨‍🎓 I am currently a student of the 4th year of the energy college
+- 👨‍🎓 Now I am a student of the 4th year of the energy college
 - 🎯 I am currently learning the **React.js** library and the **Next.js** framework;
-- 📩 At the moment, I'm interested in commercial projects on pure JS, ready to cooperate with web studios or work on a startups;
+- 📩 At the moment, I'm interested in commercial projects on pure JS, ready to cooperate;
  
 <br>
 
